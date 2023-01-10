@@ -19,12 +19,18 @@ This is a LocalGov Drupal project designed to help you quickly get a demo or pla
 ```
 Project can be reached at https://8080-essexcounty-localgovpro-i5qq2u8hn9l.ws-eu81.gitpod.io
 ```
-   Ctrl-click the long link to open the website in a new tab
+   Ctrl-click the long link to open the LocalGov Drupal website in a new tab
 1. Log in with the credentials `admin` and `admin`.
 > ⚠
 > If you later make the site public, make sure you change the username and password - otherwise anyone with the link could control your site. By default, the project is not made public, so this is not an issue.
-5. Navigate to Appearance, under LocalGov Base, select "Install and select as default"
-1. Navigate to Configure, tick "LocalGov Demo", scroll down and click "Install". This will install a lot of the LocalGov Drupal modules as well as some demo content. 
+
+## Adding demo content
+The LocalGov Drupal demo content showcases a lot of the content types in LocalGov Drupal. Enabling this will make your website look like https://demo.localgovdrupal.org. To do this:
+
+1. Log in to your new LocalGov Drupal website
+2. Navigate to Configure
+3. Tick "LocalGov Demo" (you can enter a few letters in the search box to filter and find it
+4. Scroll down and click "Install". This will install a lot of the LocalGov Drupal modules as well as some demo content. 
 
 ## Credits
 Based on [localgov_project](https://github.com/localgovdrupal/localgov_project) and [ddev-gitpod](https://github.com/shaal/ddev-gitpod)
