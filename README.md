@@ -15,11 +15,11 @@ This is a LocalGov Drupal project designed to help you quickly get a demo or pla
 
 1. Your environment is being prepared, wait about a minute.
 1. VSCode code editor will be displayed.
-1. You'll get a link to your LocalGov Drupal site in a message like this:
+1. Various commands will run in the terminal at the bottom of the screen. Wait for these to complete.
+1. You'll get a link to your LocalGov Drupal site in a message like this. Ctrl-click the long link to open the LocalGov Drupal website in a new tab
 ```
 Project can be reached at https://8080-essexcounty-localgovpro-i5qq2u8hn9l.ws-eu81.gitpod.io
 ```
-   Ctrl-click the long link to open the LocalGov Drupal website in a new tab
 1. Log in with the credentials `admin` and `admin`.
 > ⚠
 > If you later make the site public, make sure you change the username and password - otherwise anyone with the link could control your site. By default, the project is not made public, so this is not an issue.
