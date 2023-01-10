@@ -2,7 +2,8 @@
 
 This is a LocalGov Drupal project designed to help you quickly get a demo or playground site up and running quickly, without needing to set up a local development environment. It uses Gitpod and ddev.
 
-This is not intended for use in a production setting.
+> ℹ
+> This is not intended for use in a production setting.
 
 ## Prerequisites:
 1. [Sign up for gitpod.io](https://gitpod.io/login)
@@ -16,7 +17,8 @@ This is not intended for use in a production setting.
 1. VScode IDE will be displayed.
 1. You'll get a link to your LocalGov Drupal site. Open this in a new tab.
 1. Log in with the credentials `admin` and `admin`.
-> Important: by default, the site is not made public. If you later make the site public, make sure you change the username and password - otherwise anyone with the link could control your site.
+> ⚠
+> If you later make the site public, make sure you change the username and password - otherwise anyone with the link could control your site. By default, the project is not made public, so this is not an issue.
 5. Navigate to Appearance, under LocalGov Base, select "Install and select as default"
 1. Navigate to Configure, tick "LocalGov Demo", scroll down and click "Install". This will install a lot of the LocalGov Drupal modules as well as some demo content. 
 
