@@ -11,7 +11,7 @@ This is a LocalGov Drupal project designed to help you quickly get a demo or pla
 ## Try it out:
 1. Click on the "Gitpod ready to code" button below
 
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/keelanfh/localgov_project_gitpod)
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/essexcountycouncil/localgov_project)
 
 2. Your environment is being prepared, wait about a minute.
 1. VSCode code editor will be displayed.
