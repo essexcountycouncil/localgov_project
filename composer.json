@@ -83,10 +83,12 @@
                 "<bg=blue;fg=white>                                                                  </>",
                 "",
                 "<bg=yellow;fg=black>Next steps</>:",
+                
                 "  * Install the site: https://www.drupal.org/docs/8/install",
                 "  * Remove the plugin that prints this message:",
                 "      composer remove drupal/core-project-message"
             ]
         }
+        
     }
 }
